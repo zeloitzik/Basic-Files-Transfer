@@ -1,4 +1,18 @@
 
-![120-folder](https://github.com/user-attachments/assets/4d2f3293-61f3-4e36-a53f-2b74dfe48d06)
+![giphy](https://github.com/user-attachments/assets/22c37cc6-1b48-4328-a930-96e367df4b43)
 
-How to use:
+Basic Transfer File Project
+How to Use
+Update File Paths:
+
+Before running the program, update the file paths in both server.py and client.py to match your system:
+server.py: Lines 27, 43
+client.py: Line 38
+
+Start the Server First:
+Run server.py before starting client.py.
+Running them in the wrong order will cause the program to fail.
+
+Downloading Files:
+To download a file, it must be in the "Files_download" folder (or any other directory you choose).
+If you change the folder name, be sure to update the code accordingly.
