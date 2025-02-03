@@ -2,7 +2,7 @@
 ![giphy](https://github.com/user-attachments/assets/22c37cc6-1b48-4328-a930-96e367df4b43)
 
 # **Basic Transfer File Project**
-## _How to Use_
+_How to Use_
   Update File Paths:
   
   Before running the program, update the file paths in both server.py and client.py to match your system:
